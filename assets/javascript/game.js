@@ -44,3 +44,13 @@ $(document).ready(function() {
   });
 
 });
+
+//----To Do:
+// I have the numbers generating in the crystals, and the 
+// random number to guess. The game almost works in console log.
+// I need to display the total that is added when clicking the crystals.
+// I need to display the score (wins, losses).
+// I need to add a reset to the game when the player wins or losses.
+// I need to update the readme.
+// I need to attach link to the game from my portfolio.
+
